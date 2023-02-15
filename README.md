@@ -18,7 +18,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **AWS,Docker and Github Action**
+- 🌱 I’m currently learning **AWS , Docker and Github Action**
 - 💬 Ask me about **MERN Development**
 - 📫 How to reach me **subhamhaldar70@gmail.com**
 - 📄 Know about my experiences
