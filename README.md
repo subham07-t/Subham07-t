@@ -306,14 +306,14 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=subham07-t&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.subham07-t.vercel.app/api/top-langs?username=subham07-t&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="subham07-t"
   />
 </p>
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=subham07-t&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+    src="https://github-readme-stats.subham07-t.vercel.app/api?username=subham07-t&show_icons=true&locale=en&theme=tokyonight&count_private=true"
     alt="subham07-t"
   />
 </p>
