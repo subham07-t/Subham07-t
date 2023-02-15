@@ -45,7 +45,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Web Dev :</h3>
+<h3 align="left">Languages and Development tools :</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
@@ -63,6 +63,49 @@
       height="40"
     />
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=git"
+      alt="git"
+    width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=vscode"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+   <!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=postman"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a> -->
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=matlab"
+      alt="matlab"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+<h3 align="left">Web Development :</h3>
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=html"
@@ -75,6 +118,14 @@
     <img
       src="https://skillicons.dev/icons?i=css"
       alt="css3"
+     width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=js"
+      alt="javascript"
      width="40"
       height="40"
     />
@@ -203,49 +254,6 @@
     <img
       src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"
       alt="npm"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h3 align="left">Development Tools :</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=git"
-      alt="git"
-    width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=vscode"
-      alt="vscode"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-   <!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=postman"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a> -->
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=matlab"
-      alt="matlab"
       width="40"
       height="40"
     />
