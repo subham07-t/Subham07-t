@@ -296,7 +296,6 @@ p<p align="center">
     alt="subham07-t"
   />
 </p>
-
 <p>
   &nbsp;<img
     align="center"
@@ -304,7 +303,6 @@ p<p align="center">
     alt="subham07-t"
   />
 </p>
-
 <p>
   <img
     align="center"
