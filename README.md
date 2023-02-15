@@ -241,7 +241,7 @@ width ="80%"
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=subham07-t&show_icons=true&locale=en&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=subham07-t&show_icons=true&locale=en&theme=tokyonight&count_private=true"
     alt="subham07-t"
   />
 </p>
