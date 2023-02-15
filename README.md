@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
 />
-
 </p>
 
 <h1 align="center">Hi 👋, I'm Subham Haldar</h1>
@@ -48,22 +47,6 @@
 
 <h3 align="left">Languages and Web Dev :</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=bootstrap"
-      alt="bootstrap"
-    width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=cpp"
@@ -72,39 +55,7 @@
       height="40"
     />
   </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=css"
-      alt="css3"
-     width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=express"
-      alt="express"
-     width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=firebase"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=html"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=js"
       alt="javascript"
@@ -112,39 +63,39 @@
       height="40"
     />
   </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=mongodb"
-      alt="mongodb"
+      src="https://skillicons.dev/icons?i=html"
+      alt="html5"
       width="40"
       height="40"
     />
   </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=mysql"
-      alt="mysql"
+      src="https://skillicons.dev/icons?i=css"
+      alt="css3"
+     width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=bootstrap"
+      alt="bootstrap"
+    width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=tailwind"
+      alt="tailwind"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=nextjs"
-      alt="nextjs"
-     width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=nodejs"
-      alt="nodejs"
-     width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=react"
       alt="react"
@@ -160,11 +111,19 @@
       height="40"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=tailwind"
-      alt="tailwind"
+      src="https://www.chartjs.org/media/logo-title.svg"
+      alt="chartjs"
       width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=nextjs"
+      alt="nextjs"
+     width="40"
       height="40"
     />
   </a>
@@ -172,6 +131,54 @@
     <img
       src="https://skillicons.dev/icons?i=materialui"
       alt="materialui"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://ant.design/" target="_blank" rel="noreferrer">
+    <img
+      src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png"
+      alt="antd"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=nodejs"
+      alt="nodejs"
+     width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=express"
+      alt="express"
+     width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=mongodb"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=firebase"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=mysql"
+      alt="mysql"
       width="40"
       height="40"
     />
@@ -200,14 +207,6 @@
       height="40"
     />
   </a>
-    <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img
-      src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png"
-      alt="antd"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 <h3 align="left">Development Tools :</h3>
 <p align="left">
@@ -219,26 +218,34 @@
       height="40"
     />
   </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=matlab"
-      alt="matlab"
+      src="https://skillicons.dev/icons?i=vscode"
+      alt="vscode"
       width="40"
       height="40"
     />
   </a>
-   <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+   <!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=postman"
       alt="postman"
       width="40"
       height="40"
     />
-  </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  </a> -->
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=vscode"
-      alt="vscode"
+      src="https://skillicons.dev/icons?i=matlab"
+      alt="matlab"
       width="40"
       height="40"
     />
@@ -274,11 +281,10 @@
     <img
       src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png"
       alt="chai"
-     width="40"
+      width="40"
       height="40"
     />
   </a>
-
   <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" rel="noreferrer">
     <img
       src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png"
