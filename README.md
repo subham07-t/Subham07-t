@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Node JS , TypeScript and NEXT JS**
 - 💬 Ask me about **MERN Development**
-- 📫 How to reach me **subhamhaldar70@gmail.com**
+- 📫 How to reach me **dev.subhamhaldar@zohomail.in**
 - 📄 Know about my experiences
   [https://www.linkedin.com/in/subham-haldar-a83672213/](https://www.linkedin.com/in/subham-haldar-a83672213/)
 
