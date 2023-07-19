@@ -1,7 +1,5 @@
-<p align="center">
-<img src="subham_banner.gif"
-/>
-</p>
+
+![Subham Haldar LinkedIn Banner](https://github.com/subham07-t/Subham07-t/assets/82716446/360d8573-4b58-4f87-aca5-73b732e06c23)
 
 <h1 align="center">Hi 👋, I'm Subham Haldar</h1>
 <h3 align="center">Software Developer @Appycodes</h3>
