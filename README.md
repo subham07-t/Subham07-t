@@ -16,8 +16,8 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Node JS , TypeScript and NEXT JS**
-- 💬 Ask me about **MERN Development**
+- 🌱 I’m currently working on **Node JS , React , TypeScript and NEXT JS**
+- 💬 Ask me about **JavaScript , MERN Development**
 - 📫 How to reach me **dev.subhamhaldar@zohomail.in**
 - 📄 Know about my experiences
   [https://www.linkedin.com/in/subham-haldar-a83672213/](https://www.linkedin.com/in/subham-haldar-a83672213/)
@@ -43,7 +43,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Development tools :</h3>
+<h3 align="left">Programming Languages :</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
@@ -61,30 +61,30 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=git"
       alt="git"
     width="40"
       height="40"
     />
-  </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=vscode"
       alt="vscode"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
    <!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=postman"
@@ -93,16 +93,16 @@
       height="40"
     />
   </a> -->
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=matlab"
       alt="matlab"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
 </p>
-<h3 align="left">Web Development :</h3>
+<h3 align="left">Development :</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -160,18 +160,26 @@
       height="40"
     />
   </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.chartjs.org/media/logo-title.svg"
       alt="chartjs"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=nextjs"
       alt="nextjs"
+     width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=typescript"
+      alt="typescript"
      width="40"
       height="40"
     />
@@ -257,7 +265,7 @@
     />
   </a>
 </p>
-<h3 align="left">DevOps , Cloud and Testing :</h3>
+<h3 align="left">Others :</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
@@ -267,14 +275,14 @@
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=docker"
       alt="docker"
      width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img
       src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png"
