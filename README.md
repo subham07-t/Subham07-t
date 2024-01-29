@@ -19,8 +19,6 @@
 - 🌱 I’m currently working on **Node JS , React , TypeScript and NEXT JS**
 - 💬 Ask me about **JavaScript , MERN Development**
 - 📫 How to reach me **dev.subhamhaldar@zohomail.in**
-- 📄 Know about my experiences
-  [https://www.linkedin.com/in/subham-haldar-a83672213/](https://www.linkedin.com/in/subham-haldar-a83672213/)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
