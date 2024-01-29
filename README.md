@@ -22,13 +22,13 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/subham-haldar" target="blank"
+  <a href="https://www.linkedin.com/in/subham-haldar" target="blank"
     ><img
       align="center"
       src="https://skillicons.dev/icons?i=linkedin"
-      alt="subham-haldar-a83672213"
-      height="30"
-      width="40"
+      alt="subham-haldar-linkedin"
+      height="40"
+      width="50"
   /></a>
   <a href="https://github.com/subham07-t" target="blank"
     ><img
