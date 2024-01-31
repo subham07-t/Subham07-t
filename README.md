@@ -158,6 +158,14 @@
       height="40"
     />
   </a>
+<a href="https://www.sanity.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.sanity.io/static/images/logo_rounded_square.png"
+      alt="sanity"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=nodejs"
