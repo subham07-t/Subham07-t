@@ -59,48 +59,8 @@
       height="40"
     />
   </a>
-<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=git"
-      alt="git"
-    width="40"
-      height="40"
-    />
-  </a> -->
-<!--     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=vscode"
-      alt="vscode"
-      width="40"
-      height="40"
-    />
-  </a> -->
-<!--   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a> -->
-   <!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=postman"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a> -->
-<!--     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=matlab"
-      alt="matlab"
-      width="40"
-      height="40"
-    />
-  </a> -->
 </p>
-<h3 align="left">Development :</h3>
+<h3 align="left">Development & tools :</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -126,22 +86,6 @@
       height="40"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=bootstrap"
-      alt="bootstrap"
-    width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=tailwind"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=react"
@@ -150,22 +94,6 @@
       height="40"
     />
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=redux"
-      alt="redux"
-    width="40"
-      height="40"
-    />
-  </a>
-<!--   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a> -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=nextjs"
@@ -182,6 +110,30 @@
       height="40"
     />
   </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=redux"
+      alt="redux"
+    width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=tailwind"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=bootstrap"
+      alt="bootstrap"
+    width="40"
+      height="40"
+    />
+  </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=materialui"
@@ -194,6 +146,14 @@
     <img
       src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png"
       alt="antd"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=firebase"
+      alt="firebase"
       width="40"
       height="40"
     />
@@ -222,14 +182,6 @@
       height="40"
     />
   </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=firebase"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://skillicons.dev/icons?i=mysql"
@@ -250,6 +202,38 @@
     <img
       src="https://skillicons.dev/icons?i=vercel"
       alt="vercel"
+      width="40"
+      height="40"
+    />
+  </a>
+<!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a> -->
+   <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=postman"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=git"
+      alt="git"
+    width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=vscode"
+      alt="vscode"
       width="40"
       height="40"
     />
