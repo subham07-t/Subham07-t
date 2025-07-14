@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently working on **Node JS , React , TypeScript and NEXT JS**
 - 💬 Ask me about **JavaScript , MERN Development**
-- 📫 How to reach me **dev.subhamhaldar@zohomail.in**
+- 📫 How to reach me **iamsubhamhaldar.dev@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
