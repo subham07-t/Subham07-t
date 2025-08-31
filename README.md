@@ -1,7 +1,7 @@
 ![Subham Haldar LinkedIn Banner](https://github.com/subham07-t/Subham07-t/assets/82716446/360d8573-4b58-4f87-aca5-73b732e06c23)
 
 <h1 align="center">Hi 👋, I'm Subham Haldar</h1>
-<h3 align="center">Backend Developer @Appycodes | Full-Stack Engineer</h3>
+<h3 align="center">Backend Developer @Appycodes</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
